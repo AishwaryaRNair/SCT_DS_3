@@ -39,4 +39,4 @@ Practical implementation of Decision Trees in classification problems
 Experience in handling real-world structured datasets
 Understanding feature importance for business decision-making
 
-Linkedin link :- 
+Linkedin link :- https://www.linkedin.com/posts/aishwarya-rnair_datascience-machinelearning-decisiontree-activity-7377768590923571201-Nga7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWO_U4ByDL-RdPPYQpCAQx5Mkiwopcllgk
